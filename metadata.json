@@ -1,0 +1,6 @@
+{
+  "name": "FitSkill",
+  "description": "An AI-powered clinical-grade elite fitness assessment and calibration engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
